@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "612372154184",
+    "project_id": "facereco-95fd8",
+    "storage_bucket": "facereco-95fd8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:612372154184:android:6893350761f50eced4957d",
+        "android_client_info": {
+          "package_name": "com.example.facrerec1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLec_BR5HW2P4bI9N1p7CSB7jBsZUL9hs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
